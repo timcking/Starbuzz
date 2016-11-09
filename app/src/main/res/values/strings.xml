@@ -6,9 +6,9 @@
     <string name="starbuzz_logo">Starbuzz logo</string>
 
     <string-array name="options">
-      <item>Drinks</item>
-      <item>Food</item>
-      <item>Stores</item>
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
     </string-array>
 
     <string name="title_activity_drink_category">DrinkCategoryActivity</string>
